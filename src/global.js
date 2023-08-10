@@ -27,6 +27,6 @@ export const GlobalStyle = createGlobalStyle`
     color: var(--color-black);
     background-color: var(--color-gray1);
 
-    padding: 3rem;
+    padding: 3rem 0.5rem;
   }
 `;
